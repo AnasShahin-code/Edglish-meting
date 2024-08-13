@@ -1,5 +1,5 @@
 import MeetingTypeList from '@/components/MeetingTypeList';
-
+//export const runime = "edge";
 const Home = () => {
   const now = new Date();
 
